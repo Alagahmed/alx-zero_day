@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 On branch main
 Your branch is behind 'origin/main' by 2 commits, and can be fast-forwarded.
   (use "git pull" to update your local branch)
@@ -14,3 +15,6 @@ Untracked files:
 	.up_to_date.swp
 
 no changes added to commit (use "git add" and/or "git commit -a")
+=======
+my first readme file
+>>>>>>> 7741c9015ff9db2058be2d572917dcd73ab01541
